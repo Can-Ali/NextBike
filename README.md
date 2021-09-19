@@ -6,7 +6,7 @@ This repository contains API tests for the Nextbike networks
 # Getting Started
 POM is used to create the framework under 4 separate folders: runners, step_definitions, utilities and features.
 1.	runner includes CukesRunner class which triggers the tagged test scenarios.
-2.	step+definitions include the hard coding for the scenarios defined in feature files.
+2.	step_definitions include the hard coding for the scenarios defined in feature files.
 3.	utilities includes ConfigurationReader class which reads the data written in Configuration.properties file. 
     Configuration properties file contains the endpoint (url) to be used in API testing 
 
