@@ -59,6 +59,8 @@ public class NetworksSteps {
             }
         }
     }
+
+
     @Then("contentType should be json")
     public void contenttype_should_be_json() {
         assertTrue(response.contentType().contains("application/json"));

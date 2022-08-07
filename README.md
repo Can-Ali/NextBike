@@ -1,5 +1,29 @@
 # NextBike Api Tests
 
+# PRACTICAL EXERCISE
+
+## API automation
+
+As a biker I would like to know the exact location of city bikes around the world in a given application.
+
+Endpoint: http://api.citybik.es/v2/networks
+
+Auth: No
+
+HTTPS: No
+
+Understands how the API works.
+
+Create some BDD scenarios and automate them using Java to test the API
+
+Test this particular scenario: “As a user I want to verify that the city Frankfurt is in Germany and return their corresponded latitude and longitude”
+
+Criteria:
+
+The code should be runnable from IDE or console
+
+Include all dependencies in your project and include a Readme file explaining how to run your tests.
+
 ## Introduction
 This repository contains API tests for the Nextbike networks
 
